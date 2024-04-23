@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DRDataTransfer>
+  <Customer>
+    <Number>2</Number>
+    <Name>Erdman-Lang</Name>
+    <Addresses>
+      <Address Code="4" Description="Steuber-Ortiz" PostalCode="10377" Address1="7857 Wyman Springs Apt. 366"/>
+    </Addresses>
+  </Customer>
+  <Article>
+    <Number>Q2G6-Z4VT-9KUQ-4J8H</Number>
+    <Description>Este es una caja de 40cm X 70 cm X 40cm</Description>
+    <SalesPrice>23</SalesPrice>
+  </Article>
+  <Order>
+    <Transaction>0</Transaction>
+    <OrderNumber>2</OrderNumber>
+    <PartNumber>03</PartNumber>
+    <OrderedQuantity>45</OrderedQuantity>
+    <DueDate>2024-04-09</DueDate>
+  </Order>
+</DRDataTransfer>

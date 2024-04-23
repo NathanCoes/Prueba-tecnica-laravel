@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DRDataTransfer>
+  <Customer>
+    <Number>7</Number>
+    <Name>Nova</Name>
+    <Addresses>
+      <Address Code="13" Description="Bodega 2" PostalCode="97001" Address1="Calle 54"/>
+    </Addresses>
+  </Customer>
+  <Article>
+    <Number>5052-1</Number>
+    <Description>Caja pizza</Description>
+    <SalesPrice>40</SalesPrice>
+  </Article>
+  <Order>
+    <Transaction>0</Transaction>
+    <OrderNumber>3</OrderNumber>
+    <PartNumber>01</PartNumber>
+    <OrderedQuantity>150</OrderedQuantity>
+    <DueDate>2024-04-10</DueDate>
+  </Order>
+</DRDataTransfer>
